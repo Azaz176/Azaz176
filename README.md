@@ -19,9 +19,4 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azaz176&show_icons=true&locale=en&layout=compact" alt="azaz176" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azaz176&show_icons=true&locale=en" alt="azaz176" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azaz176&" alt="azaz176" /></p>
 
