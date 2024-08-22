@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azaz Ali</h1>
 <h3 align="center">A passionate Fullstack Software Developer</h3>
 
-- 🌱 I’m currently learning **AWS, Cloud, and grinding Leetcode**
+- 🌱 I’m currently learning **Cloud, Microservices, and grinding Leetcode**
 - 🔭 I have a strong passion for low-level programming and system architecture.
 - 💬 Ask me about **frontend, backend, fullstack, software development**
 - ⚡ Fun fact: I'm a fitness enthusiast who loves staying active.
