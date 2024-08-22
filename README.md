@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **Cloud, Microservices, and grinding Leetcode**
 - 🔭 I have a strong passion for low-level programming and system architecture.
 - 💬 Ask me about **frontend, backend, fullstack, software development**
+- 🤔 I'm eager to grow within the developer community and collaborate on open-source projects and exciting dev roles!
 - ⚡ Fun fact: I'm a fitness enthusiast who loves staying active.
 - 📫 How to reach me **azaz.ali1706@gmail.com**
 - 🌐 [My Portfolio Website](https://portfolio-pi-bice-31.vercel.app/)
