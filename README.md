@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Azaz Ali</h1>
-<h3 align="center">A passionate Fullstack Software Developer</h3>
+<h3 align="center">A passionate Fullstack Software Developer and Data Scientist</h3>
 
-- 🌱 I’m currently learning **Cloud, Microservices, and grinding Leetcode**
+- 🌱 I’m currently learning **Cloud, Microservices, and Machine Learning and Deep Learning**
 - 🔭 I have a strong passion for low-level programming and system architecture.
-- 💬 Ask me about **frontend, backend, fullstack, software development**
+- 💬 Ask me about **Data Science, AI, fullstack, software development**
 - 🤔 I'm eager to grow within the developer community and collaborate on open-source projects and exciting dev roles!
 - ⚡ Fun fact: I'm a fitness enthusiast who loves staying active.
 - 📫 How to reach me **azaz.ali1706@gmail.com**
