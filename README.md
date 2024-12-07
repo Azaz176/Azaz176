@@ -7,7 +7,7 @@
 - 🤔 I'm eager to grow within the developer community and collaborate on open-source projects and exciting dev roles!
 - ⚡ Fun fact: I'm a fitness enthusiast who loves staying active.
 - 📫 How to reach me **azaz.ali1706@gmail.com**
-- 🌐 [My Portfolio Website](https://portfolio-pi-bice-31.vercel.app/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/azaz_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azaz_dev" height="30" width="40" /></a>
